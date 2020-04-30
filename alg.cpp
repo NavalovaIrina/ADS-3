@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 #include "tstack.h"
 
 int getPriority(char ch)
